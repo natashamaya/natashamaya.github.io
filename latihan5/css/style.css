@@ -13,20 +13,22 @@
 	font-size: inherit;
 }
 .bluechef {
-  background-color: #;
+  background-color: #ccafaf;
 }
 .bluechef-text {
-  color: #E9E9E9;
+  color: #ccafaf;
 }
 .collection a.collection-item {
-  color: #4EB1BA;
+  color: #204051;
+  font-weight: bold;
 }
 .collection a.collection-item {
   display: block;
   webkit transition: .25s;
   transition: .25s;
-  color: #4EB1BA;
+  color: #204051;
+  font-weight: bold;
 }
 .body {
-  background-color: #;
+  background-color: pink;
 }
