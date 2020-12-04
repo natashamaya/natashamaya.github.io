@@ -1,18 +1,18 @@
 body {
-background-color:#222930;
-color: #E9E9E9;
+background-color:#ff9a76;
+color: #ffeadb;
 font-family: sans-serif;
 border-right-style : double;
 border-left-style: double;
 }
 
 a:link, a:visited {
-color: #4EB1BA;
+color: #679b9b;
 text-decoration: none;
 }
 
 a:hover {
-color: #4EB1BA;
+color: #679b9b;
 font-weight: bold;
 text-decoration: underline;
 }
@@ -31,7 +31,7 @@ list-style-type: none;
 
 .menu {
 width: 300px;
-background-color: #E9E9E9;
+background-color: #ffeadb;
 margin: 5px;
 margin-left: auto;
 margin-right: auto;
