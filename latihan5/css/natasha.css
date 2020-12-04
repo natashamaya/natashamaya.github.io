@@ -1,13 +1,13 @@
 body {
-background-color:#222930; <-- 222930 navy -->
-color: #E9E9E9; <-- putih_pasir -->
+background-color:#222930;
+color: #E9E9E9;
 font-family: sans-serif;
 border-right-style : double;
 border-left-style: double;
 }
 
 a:link, a:visited {
-color: #4EB1BA; <-- blue -->
+color: #4EB1BA;
 text-decoration: none;
 }
 
@@ -42,5 +42,4 @@ border-style: groove;
 
 .gambar-resep {
 width: 300px;
-
 }
