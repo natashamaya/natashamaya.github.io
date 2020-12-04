@@ -12,3 +12,21 @@
 .icon-block .material-icons {
 	font-size: inherit;
 }
+.bluechef {
+  background-color: #;
+}
+.bluechef-text {
+  color: #E9E9E9;
+}
+.collection a.collection-item {
+  color: #4EB1BA;
+}
+.collection a.collection-item {
+  display: block;
+  webkit transition: .25s;
+  transition: .25s;
+  color: #4EB1BA;
+}
+.body {
+  background-color: #;
+}

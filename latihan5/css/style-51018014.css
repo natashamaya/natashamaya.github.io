@@ -1,0 +1,46 @@
+body {
+background-color:#222930; <-- navy -->
+color: #810000; <-- E9E9E9 putih pasir -->
+font-family: sans-serif;
+border-right-style : double;
+border-left-style: double;
+}
+
+a:link, a:visited {
+color: #4EB1BA; <-- blue -->
+text-decoration: none;
+}
+
+a:hover {
+color: #4EB1BA;
+font-weight: bold;
+text-decoration: underline;
+}
+
+.heading {
+text-align: center;
+border: 1px solid;
+padding: 15px;
+border-radius: 1px;
+border-style: dashed;
+}
+
+.link {
+list-style-type: none;
+}
+
+.menu {
+width: 300px;
+background-color: #E9E9E9;
+margin: 5px;
+margin-left: auto;
+margin-right: auto;
+padding: 5px;
+text-align: center;
+border-style: groove;
+}
+
+.gambar-resep {
+width: 300px;
+
+}
