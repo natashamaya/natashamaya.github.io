@@ -1,4 +1,4 @@
-const endpoint_url = 'http://51018014.p-web.click/prak8/api';
+const endpoint_url = 'https://51018014.p-web.click/prak8/api';
 
 document.addEventListener("DOMContentLoaded", function() {
   getRoomRate();
