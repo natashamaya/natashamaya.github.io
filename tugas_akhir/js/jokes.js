@@ -1,4 +1,4 @@
-const endpoint_url='http://srv4.pweb201.local/api';
+const endpoint_url='https://51018014.p-web.click/jokes/api';
 
 function getJokesList() {
   fetch(endpoint_url + "/jokes/listjokes")
@@ -41,7 +41,7 @@ function getJokes(id){
         </div>
       </div>
 
-      
+
         `;
 
     });
